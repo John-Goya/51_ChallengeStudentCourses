@@ -1,0 +1,7 @@
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-051-1\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-051-1\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-051-1\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-051-1\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-051-1\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-051-1\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+C:\Users\John\source\repos\GitHub\09-C#\CS-ASP-051-1\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
